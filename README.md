@@ -7,5 +7,6 @@ Basta fazer o download do arquivo e após isso abrir o Anki para realizar a impo
 ### No PC
 ![image](https://github.com/user-attachments/assets/f26ba14b-2238-4ce6-b111-9640fba12c7c)
 ### No celular
-![image](https://github.com/user-attachments/assets/89ddf639-44e4-4174-8707-6c3f65060164)
+![imagem anki celular menor](https://github.com/user-attachments/assets/47e9827c-ba91-46b1-84e3-07b4fae16109)
+
 
